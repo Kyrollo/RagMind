@@ -21,7 +21,7 @@ hallucination detection, and multi-turn memory — powered by Ollama + LangGraph
 
 > 📺 **Watch the full pipeline in action:**
 
-https://github.com/user-attachments/assets/ccbe437e-dfcb-44e1-ae9b-8be57c174486
+https://github.com/user-attachments/assets/65a1b2a5-8574-4768-ad03-87a01f54866d
 
 *Upload any PDF / DOCX / TXT → ask questions in natural language → watch all 7 layers process your query in real time, with source badges and a full pipeline trace.*
 
