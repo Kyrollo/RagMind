@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="self_rag_pipeline.jpg" alt="Self-RAG + CRAG 7-Layer Pipeline" width="800"/>
+<img width="2196" height="2056" alt="Image" src="https://github.com/user-attachments/assets/2bcca37c-c2cf-49b5-b3ed-6905129c2b18" />
 
 # 🧠 RagMind — Self-RAG + CRAG PDF Assistant
 
@@ -86,7 +86,6 @@ START
   ▼
  END
 ```
-<img src="self_rag_pipeline.jpg" alt="Self-RAG + CRAG 7-Layer Pipeline" width="800"/>
 
 **Models:**
 
