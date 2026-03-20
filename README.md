@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="2196" height="2056" alt="Image" src="https://github.com/user-attachments/assets/2bcca37c-c2cf-49b5-b3ed-6905129c2b18" />
-
 # 🧠 RagMind — Self-RAG + CRAG PDF Assistant
 
 **A fully local, 7-layer Adaptive RAG pipeline with automatic web fallback,
@@ -86,6 +84,9 @@ START
   ▼
  END
 ```
+
+
+<img width="2196" height="2056" alt="Image" src="https://github.com/user-attachments/assets/2bcca37c-c2cf-49b5-b3ed-6905129c2b18" />
 
 **Models:**
 
